@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+It might be faster, or easier to have a copy updated on the server.
