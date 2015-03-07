@@ -1,6 +1,6 @@
 What happens when you initialize a rpository?  Why do you need to do it?
 
-It creates the .git directory and other meta data to prepare to track files. 
+It creates the .git directory and other meta data to prepare to track files.
 You have to start with the shell of a repository before you can add items to it.
 
 How is the staging area different from the working directory and the repository?  What value do you think it offers?
@@ -18,3 +18,12 @@ If you want to veer off to try something new in the code that you don't (yet) wa
 How do the diagrams help you visualize the branch structure?
 
 It's clearer which branches contain which changes - and where they meet up.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It puts together the changes from the 2 branches - changes that were made independently of eachother - so they were
+on separate branches of the tree before coming back together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros - it can save time rather than doing it manually.  The con is when it requires manual intervention.
