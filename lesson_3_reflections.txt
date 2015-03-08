@@ -10,3 +10,6 @@ computer.  Branch is for starting a new virtual area for making changes to the c
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It maintains a snapshot of what the remote state looked like the last time you sync'd with it.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We collaborate at work using cvs - but if you didn't have any version control, collaboration would have to be done
+manually, which would be awful and error-prone.  Though you wouldn't have to learn any git commands or structure. 
